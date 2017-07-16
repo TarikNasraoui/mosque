@@ -1,0 +1,7 @@
+front-end/src
+front-end/node_modules
+front-end/bower.json
+front-end/gulpfile.js
+front-end/package.json
+front-end/bower_components
+front-end/package-lock.json
